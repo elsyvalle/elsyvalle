@@ -1,0 +1,59 @@
+/* styles.css */
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e79797;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el encabezado */
+h1 {
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Estilos para las preguntas */
+.pregunta {
+    background-color: #dd9797;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.pregunta h2 {
+    color: #333;
+}
+
+/* Estilos para las imágenes */
+.pregunta img {
+    max-width: 25%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+/* Estilos para el menú de navegación (si lo tienes) */
+nav ul {
+    list-style: none;
+    background-color: #dd9797;
+    padding: 10px 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/* Otros estilos (personaliza según tus necesidades) */
+/* ... */
